@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fito-bit
-- 🌱 I’m currently learning Unity and Blender and also work as a Unity developer
 - 📫 How to reach me: telegram - @fitobit
 
 <!---
